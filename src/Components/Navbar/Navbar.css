@@ -1,0 +1,21 @@
+.upperPart {
+    display: flex;
+}
+
+.Navbar {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    max-width: fit-content;
+}
+
+.NavItem {
+    border-radius: 50%;
+    background-color: #282c34;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
